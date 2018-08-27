@@ -1,0 +1,11 @@
+@import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+a:hover {
+    cursor: pointer;
+    color: #007BFF !important;
+    background-color: #E3F2FD; 
+}
+
+a.active {
+    color: white !important;
+}
